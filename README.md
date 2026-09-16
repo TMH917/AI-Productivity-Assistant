@@ -3,7 +3,7 @@
 An integrated workplace assistant built to automate day-to-day administrative burdens including email drafting, meeting action extraction, and prioritized task scheduling.
 
 ## 🚀 Live Demo
-- [Live Web App Link](YOUR_LOVABLE_DEPLOYED_URL)
+- (https://teamwork-ai-helper.lovable.app)
 
 ## 🛠️ Features
 - **Smart Email Generator:** Tailors professional communications across distinct workplace tones.
